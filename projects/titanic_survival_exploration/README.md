@@ -2,7 +2,7 @@
 ## Introduction and Foundations
 ## Project: Titanic Survival Exploration
 
-### Install
+### Install this
 
 This project requires **Python 2.7** and the following Python libraries installed:
 
