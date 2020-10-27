@@ -3,7 +3,6 @@
 ## Project: Predicting Boston Housing Prices
 
 ### Install
-### This File.
 
 This project requires **Python 2.7**(if you complete this project in Python 3.x, you will have to update the code in various places including all relevant print statements) and the following Python libraries installed:
 
